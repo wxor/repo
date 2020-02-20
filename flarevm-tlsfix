@@ -1,0 +1,3 @@
+http://www.microsoft.com/en-us/download/details.aspx?id=40855
+
+[System.Net.ServicePointManager]::SecurityProtocol = [Enum]::ToObject([System.Net.SecurityProtocolType], 3072)
